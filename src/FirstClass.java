@@ -3,5 +3,6 @@ public class FirstClass {
 
         System.out.println("Hello Git User");
         System.out.println("I think I did it ! ");
+        System.out.println("3rd commit");
     }
 }
